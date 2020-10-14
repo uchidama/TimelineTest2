@@ -10,7 +10,7 @@ Unity timeline test
 
 
 # 必要要件
-- Unity 2019.3.15f1 or later
+- Unity 2020.1.7f1 or later
 
 # License
 [Unlicense](https://unlicense.org/)
